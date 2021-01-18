@@ -1,0 +1,40 @@
+.events-container {
+    margin-top: 125px;
+}
+
+.events-container h3{
+    color: blue;
+}
+
+.event {
+    box-shadow: 0 10px 30px 0 rgba(138, 155, 165, 0.15);
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.event-header {
+    background-color: blue;
+    padding: 2%;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.event-icon {
+    color: #fff;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
+
+.event-icon:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.event-footer {
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.card-img-top {
+    height: 260px;
+}
