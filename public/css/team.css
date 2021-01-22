@@ -143,3 +143,14 @@
     padding-top: 20px;
     color:#770c0c;
 }
+
+.team-container {
+    margin-top: 125px;
+}
+
+.team-container h5 {
+    color: blue;;
+    text-align: center;
+	font-weight: bold;
+	font-size: 2rem;
+}
