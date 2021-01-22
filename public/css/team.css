@@ -1,0 +1,145 @@
+.card-img-top {
+	height: 350px;
+	width: 100%;
+}
+
+.member_area {
+	box-shadow: 4px 4px 4px 4px #00000057;
+	padding: 45px;
+}
+
+.members {
+	height: 300px !important;
+	box-shadow: 4px 4px 4px 4px #00000057;
+}
+
+.img-responsive {
+	height: 400px !important;
+	box-shadow: 4px 4px 4px 4px #00000057;
+}
+.team_name {
+    text-align: center;
+    width: 100%;
+    float: none;
+    bottom: 0px;
+    
+}
+
+.career-timeline-area {
+	position: relative;
+	z-index: 1;
+	background-color: #0c0527; }
+	.career-timeline-area .first-img {
+	  position: absolute;
+	  z-index: -5;
+	  bottom: 0;
+	  left: 0; }
+	.career-timeline-area .second-img {
+	  position: absolute;
+	  z-index: -5;
+	  right: 0;
+	  top: 100px; }
+  
+  .single-timeline-area {
+	position: relative;
+	z-index: 1;
+	margin-bottom: 50px; }
+	.single-timeline-area:last-child {
+	  margin-bottom: 0; }
+	.single-timeline-area:nth-child(even) {
+	  margin-left: 20%; }
+	  @media only screen and (max-width: 767px) {
+		.single-timeline-area:nth-child(even) {
+		  margin-left: 10%; } }
+	.single-timeline-area .timeline-date {
+	  -webkit-box-flex: 0;
+	  -ms-flex: 0 0 120px;
+	  flex: 0 0 120px;
+	  max-width: 120px;
+	  width: 120px; }
+	  @media only screen and (max-width: 767px) {
+		.single-timeline-area .timeline-date {
+		  -webkit-box-flex: 0;
+		  -ms-flex: 0 0 90px;
+		  flex: 0 0 90px;
+		  max-width: 90px;
+		  width: 90px; } }
+	  .single-timeline-area .timeline-date h2 {
+		font-size: 48px;
+		line-height: 1;
+		text-align: center;
+		color: #770c0c; }
+		.single-timeline-area .timeline-date h2 span {
+		  display: block;
+		  font-size: 16px;
+		  color: #0f0f29;
+		  font-weight: 500; }
+	.single-timeline-area .timeline-content {
+	  margin-top: 45px; }
+	  .single-timeline-area .timeline-content h5 {
+		font-size: 18px;
+		font-weight: 900;
+		color: #0f0f29;
+		text-transform: uppercase;
+		margin-bottom: 15px; }
+	  .single-timeline-area .timeline-content p {
+		margin-bottom: 0;
+		color: #0f0f29; }
+  
+  .timeline-btn a:hover, .timeline-btn a:focus {
+	box-shadow: 0 0 60px #0f0f29; }
+
+	/* :: 3.4.0 Section Heading */
+.section-heading {
+	position: relative;
+	z-index: 1;
+	margin-bottom: 70px;
+	text-align: center; }
+	.section-heading h2 {
+	  font-size: 48px;
+	  color: #0f0f29;
+	  text-transform: uppercase;
+	  font-weight: 900; }
+	  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+		.section-heading h2 {
+		  font-size: 40px; } }
+	  @media only screen and (min-width: 768px) and (max-width: 991px) {
+		.section-heading h2 {
+		  font-size: 36px; } }
+	  @media only screen and (max-width: 767px) {
+		.section-heading h2 {
+		  font-size: 24px; } }
+	.section-heading h6 {
+	  font-size: 16px;
+	  margin-bottom: 0;
+	  color: #770c0c; }
+	.section-heading.dark h2 {
+	  color: #262626; }
+	.section-heading.dark h6 {
+	  color: #c1c1c1; }
+
+	  .parallax{
+		background-image: url('/public/images/iic1.jpg');
+		/* width: 100%;  */
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size:cover;
+		margin-top: 10px;
+    }
+
+.btn{
+    background-color: #0f0f29;
+    color: bisque;
+    width: 100%;
+    border-radius: 32px;
+}
+
+.text_about {
+    color: #0f0f29;
+}
+
+.text-heading {
+    padding-top: 20px;
+    color:#770c0c;
+}
