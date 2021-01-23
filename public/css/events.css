@@ -3,7 +3,7 @@
 }
 
 .events-container h3{
-    color: blue;
+    color: darkblue;
 }
 
 .event {
@@ -13,7 +13,7 @@
 }
 
 .event-header {
-    background-color: blue;
+    background-color: darkblue;
     padding: 2%;
     color: white;
     border-radius: 5px;
