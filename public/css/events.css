@@ -144,7 +144,7 @@
 }
   
 #scroll:hover {
-    background-color: blue;
+    background-color: darkblue;
 }
 
 html {
@@ -167,7 +167,7 @@ html {
 }
 
 #accordion .card-header a:hover {
-    color: blue;
+    color: darkblue;
     text-decoration: none;
 }
 
