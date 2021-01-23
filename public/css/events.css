@@ -24,6 +24,19 @@
     font-weight: 500;
 }
 
+@media (max-width: 600px) {
+    .event-header {
+        padding: 4%;
+    }
+    .event-header h2 {
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+    .event-header p{
+        font-size: 0.9rem;
+    }
+}
+
 .event-icon {
     color: #fff;
     font-size: 1.2rem;
