@@ -3,11 +3,8 @@
 }
 
 .innov-container h3{
-    color: blue;
-}
-
-.quote-thomas h5 {
-    font-size: 2.2rem;
+    color: darkblue;
+    font-weight: bold;
 }
 
 .quote-text-one {
@@ -17,7 +14,7 @@
     -o-animation: fadein 2s; /* Opera < 12.1 */
     animation: fadein 2s;
 
-    color: blue;
+    color: darkblue;
 }
 
 .quote-text-two {
