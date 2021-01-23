@@ -28,7 +28,7 @@
 .career-timeline-area {
 	position: relative;
 	z-index: 1;
-	background-color: #0c0527; }
+	background-color: darkblue; }
 	.career-timeline-area .first-img {
 	  position: absolute;
 	  z-index: -5;
@@ -72,22 +72,22 @@
 		.single-timeline-area .timeline-date h2 span {
 		  display: block;
 		  font-size: 16px;
-		  color: #0f0f29;
+		  color: darkblue;
 		  font-weight: 500; }
 	.single-timeline-area .timeline-content {
 	  margin-top: 45px; }
 	  .single-timeline-area .timeline-content h5 {
 		font-size: 18px;
 		font-weight: 900;
-		color: #0f0f29;
+		color: darkblue;
 		text-transform: uppercase;
 		margin-bottom: 15px; }
 	  .single-timeline-area .timeline-content p {
 		margin-bottom: 0;
-		color: #0f0f29; }
+		color: darkblue; }
   
   .timeline-btn a:hover, .timeline-btn a:focus {
-	box-shadow: 0 0 60px #0f0f29; }
+	box-shadow: 0 0 60px darkblue; }
 
 	/* :: 3.4.0 Section Heading */
 .section-heading {
@@ -97,7 +97,7 @@
 	text-align: center; }
 	.section-heading h2 {
 	  font-size: 48px;
-	  color: #0f0f29;
+	  color: darkblue;
 	  text-transform: uppercase;
 	  font-weight: 900; }
 	  @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -129,14 +129,14 @@
     }
 
 .btn{
-    background-color: #0f0f29;
+    background-color: darkblue;
     color: bisque;
     width: 100%;
     border-radius: 32px;
 }
 
 .text_about {
-    color: #0f0f29;
+    color: darkblue;
 }
 
 .text-heading {
