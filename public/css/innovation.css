@@ -5,6 +5,27 @@
 .innov-container h3{
     color: darkblue;
     font-weight: bold;
+    text-align: center;
+}
+
+.quote-box {
+    margin-top: 40px;
+}
+
+.quote-box p {
+    margin-left: 60px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.quote-box .fancy-dash {
+    display: block;
+    content: "";
+    width: 50px;
+    height: 2px;
+    background-color: darkblue;
+    position: absolute;
+    top: 12px;
 }
 
 .quote-text-one {
@@ -28,13 +49,15 @@
 }
 
 .quote-author {
-    -webkit-animation: fadein 7s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 7s; /* Firefox < 16 */
-    -ms-animation: fadein 7s; /* Internet Explorer */
-    -o-animation: fadein 7s; /* Opera < 12.1 */
-    animation: fadein 7s;
+    -webkit-animation: fadein 5s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 5s; /* Firefox < 16 */
+    -ms-animation: fadein 5s; /* Internet Explorer */
+    -o-animation: fadein 5s; /* Opera < 12.1 */
+    animation: fadein 5s;
 
-    font-size: 1.4rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    float: right;
 }
 
 @keyframes fadein {

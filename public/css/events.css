@@ -5,6 +5,7 @@
 .events-container h3{
     color: darkblue;
     font-weight: bold;
+    text-align: center;
 }
 
 .event {
