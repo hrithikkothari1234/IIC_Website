@@ -138,5 +138,9 @@
 }
 
 .carousel-item img {
-    height: calc(100vh - 170px)!important;
+    height: calc(100vh - 190px)!important;
+}
+
+.carousel-container {
+    margin-bottom: 40px;
 }
