@@ -123,12 +123,6 @@
     position: absolute;
 }
 
-@media (max-width: 900px) {
-    .idea-container .upper-dash {
-        height: 120px;
-    }
-}
-
 .idea-container p {
     margin-left: 15%;
     color: darkblue;
